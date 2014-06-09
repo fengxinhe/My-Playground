@@ -1,4 +1,6 @@
 My-Playground
 =============
 
-all for playing
+All for playing!
+
+Coding for fun!
